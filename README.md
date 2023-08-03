@@ -1,5 +1,5 @@
 # 3 column preview card
 
-##Desktop
+## Desktop
 
-##Mobile
+## Mobile
